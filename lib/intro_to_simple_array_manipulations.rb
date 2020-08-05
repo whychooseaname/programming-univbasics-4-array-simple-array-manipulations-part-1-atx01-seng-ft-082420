@@ -10,5 +10,6 @@ end
 
 def using_pop(array)
   array=[]
-  array.pop 
+  array_2=array.pop
+  puts array_2
 end
